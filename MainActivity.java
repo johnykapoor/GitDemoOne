@@ -7,7 +7,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        String msg = "hii its second  branch edit by android studio";
+        String msg = "hii its second  branch edit by android studio now";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
