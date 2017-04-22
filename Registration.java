@@ -10,6 +10,6 @@ public class Registration extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_registration);
 
-        String mas =" its   branch 3 second file";
+        String mas =" its   branch 3 second file  edit for commit";
     }
 }
